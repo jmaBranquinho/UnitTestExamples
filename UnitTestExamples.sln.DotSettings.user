@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5a4ead22_002D6c5c_002D419f_002Dadbe_002D0cd3f3a10e6f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_WhenNoStringIsProvided_ReturnsRandomNumberAndRespectiveMessage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::B59D5C93-1378-4431-9DCA-D20C83C0410A::net6.0::XUnitExample.CalculatorTests.Add_When2ValuesAreProvided_ReturnsSumAndRespectiveMessageNSubstitute&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::AFF5BCBE-F724-420A-ACB4-62544C9CEBF3::net6.0::NUnitExample.CalculatorTestsNUnit.Add_WhenOnly1ValueIsProvided_ReturnsTheNumberAndRespectiveMessage&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::AFF5BCBE-F724-420A-ACB4-62544C9CEBF3::net6.0::NUnitExample.CalculatorTestsNUnit.Test1&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::AFF5BCBE-F724-420A-ACB4-62544C9CEBF3::net6.0::NUnitExample.CalculatorTestsNUnit.Add_When3OrMoreValuesAreProvided_ReturnsFirstNumberAndRespectiveMessage&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;AFF5BCBE-F724-420A-ACB4-62544C9CEBF3/f:CalculatorTestsNUnit.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;B59D5C93-1378-4431-9DCA-D20C83C0410A/f:CalculatorTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
