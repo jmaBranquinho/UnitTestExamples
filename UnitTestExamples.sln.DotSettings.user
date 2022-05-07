@@ -6,6 +6,8 @@
       &lt;TestId&gt;NUnit3x::AFF5BCBE-F724-420A-ACB4-62544C9CEBF3::net6.0::NUnitExample.CalculatorTestsNUnit.Add_WhenOnly1ValueIsProvided_ReturnsTheNumberAndRespectiveMessage&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::AFF5BCBE-F724-420A-ACB4-62544C9CEBF3::net6.0::NUnitExample.CalculatorTestsNUnit.Test1&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;NUnit3x::AFF5BCBE-F724-420A-ACB4-62544C9CEBF3::net6.0::NUnitExample.CalculatorTestsNUnit.Add_When3OrMoreValuesAreProvided_ReturnsFirstNumberAndRespectiveMessage&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::A53F1AD3-50D4-4134-A8EB-D6D0FD80D1DA::net6.0::DataCreationExamples.UnitTest1.AutoFixture&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::A53F1AD3-50D4-4134-A8EB-D6D0FD80D1DA::net6.0::DataCreationExamples.UnitTest1.AutoFixture_PreventLoopsOnProperties&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;ProjectFile&gt;AFF5BCBE-F724-420A-ACB4-62544C9CEBF3/f:CalculatorTestsNUnit.cs&lt;/ProjectFile&gt;&#xD;
     &lt;ProjectFile&gt;B59D5C93-1378-4431-9DCA-D20C83C0410A/f:CalculatorTests.cs&lt;/ProjectFile&gt;&#xD;

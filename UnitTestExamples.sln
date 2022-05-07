@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitExample", "XUnitExampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitExample", "NUnitExample\NUnitExample.csproj", "{AFF5BCBE-F724-420A-ACB4-62544C9CEBF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCreationExamples", "DataCreationExamples\DataCreationExamples.csproj", "{A53F1AD3-50D4-4134-A8EB-D6D0FD80D1DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{AFF5BCBE-F724-420A-ACB4-62544C9CEBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF5BCBE-F724-420A-ACB4-62544C9CEBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF5BCBE-F724-420A-ACB4-62544C9CEBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53F1AD3-50D4-4134-A8EB-D6D0FD80D1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53F1AD3-50D4-4134-A8EB-D6D0FD80D1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53F1AD3-50D4-4134-A8EB-D6D0FD80D1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53F1AD3-50D4-4134-A8EB-D6D0FD80D1DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
